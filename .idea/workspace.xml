@@ -9,7 +9,10 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fba75743-06e1-4c15-8918-3093ac9df04e" name="Default" comment="" />
+    <list default="true" id="fba75743-06e1-4c15-8918-3093ac9df04e" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +26,7 @@
       </map>
     </option>
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="03663118AN002321" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -35,11 +39,24 @@
       </state>
     </system>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1bLZ0Yb06qVrWDYh0qdAAWb9nZP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="confi&#9;FILE&#9;file:///Users/langstonsmith/Documents/Mapbox_Work/store-locator-android/StoreLocator/app/src/main/res/values/dev-config.xml&#10;de&#9;FILE&#9;file:///Users/langstonsmith/Documents/Mapbox_Work/store-locator-android/StoreLocator/app/src/main/res/values/dev-config.xml&#10;strings.xml&#9;FILE&#9;file:///Users/langstonsmith/Documents/Mapbox_Work/store-locator-android/StoreLocator/app/src/main/res/values/strings.xml" />
     <property name="device.picker.selection" value="dfdd4ec8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -206,5 +223,16 @@
       <updated>1524607239105</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
