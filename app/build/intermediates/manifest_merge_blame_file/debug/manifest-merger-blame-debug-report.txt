@@ -1,0 +1,97 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.mapbox.storefinder"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="14"
+8-->/home/afridev/Videos/store-locator-android-master/StoreLocator/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->/home/afridev/Videos/store-locator-android-master/StoreLocator/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+11-->/home/afridev/Videos/store-locator-android-master/StoreLocator/app/src/main/AndroidManifest.xml:5:5-78
+11-->/home/afridev/Videos/store-locator-android-master/StoreLocator/app/src/main/AndroidManifest.xml:5:22-76
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->/home/afridev/Videos/store-locator-android-master/StoreLocator/app/src/main/AndroidManifest.xml:6:5-78
+12-->/home/afridev/Videos/store-locator-android-master/StoreLocator/app/src/main/AndroidManifest.xml:6:22-76
+13
+14    <uses-feature
+14-->[com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] /home/afridev/.gradle/caches/transforms-2/files-2.1/f72f087800e6473fc0fd85e56f882d71/mapbox-android-sdk-8.1.0/AndroidManifest.xml:9:5-11:35
+15        android:glEsVersion="0x00020000"
+15-->[com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] /home/afridev/.gradle/caches/transforms-2/files-2.1/f72f087800e6473fc0fd85e56f882d71/mapbox-android-sdk-8.1.0/AndroidManifest.xml:10:9-41
+16        android:required="true" />
+16-->[com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] /home/afridev/.gradle/caches/transforms-2/files-2.1/f72f087800e6473fc0fd85e56f882d71/mapbox-android-sdk-8.1.0/AndroidManifest.xml:11:9-32
+17    <uses-feature
+17-->[com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] /home/afridev/.gradle/caches/transforms-2/files-2.1/f72f087800e6473fc0fd85e56f882d71/mapbox-android-sdk-8.1.0/AndroidManifest.xml:12:5-14:36
+18        android:name="android.hardware.wifi"
+18-->[com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] /home/afridev/.gradle/caches/transforms-2/files-2.1/f72f087800e6473fc0fd85e56f882d71/mapbox-android-sdk-8.1.0/AndroidManifest.xml:13:9-45
+19        android:required="false" /> <!-- Implied by ACCESS_WIFI_STATE. -->
+19-->[com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] /home/afridev/.gradle/caches/transforms-2/files-2.1/f72f087800e6473fc0fd85e56f882d71/mapbox-android-sdk-8.1.0/AndroidManifest.xml:14:9-33
+20    <uses-permission android:name="android.permission.INTERNET" />
+20-->[com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] /home/afridev/.gradle/caches/transforms-2/files-2.1/f72f087800e6473fc0fd85e56f882d71/mapbox-android-sdk-8.1.0/AndroidManifest.xml:16:5-67
+20-->[com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] /home/afridev/.gradle/caches/transforms-2/files-2.1/f72f087800e6473fc0fd85e56f882d71/mapbox-android-sdk-8.1.0/AndroidManifest.xml:16:22-64
+21    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" /> <!-- Required for CrashReporterJobIntentService on API levels below 25 -->
+21-->[com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] /home/afridev/.gradle/caches/transforms-2/files-2.1/f72f087800e6473fc0fd85e56f882d71/mapbox-android-sdk-8.1.0/AndroidManifest.xml:18:5-76
+21-->[com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] /home/afridev/.gradle/caches/transforms-2/files-2.1/f72f087800e6473fc0fd85e56f882d71/mapbox-android-sdk-8.1.0/AndroidManifest.xml:18:22-73
+22    <uses-permission android:name="android.permission.WAKE_LOCK" />
+22-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] /home/afridev/.gradle/caches/transforms-2/files-2.1/7eb81b5072a68e6bb62eee31f9fc7c4e/mapbox-android-telemetry-4.5.1/AndroidManifest.xml:12:5-68
+22-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] /home/afridev/.gradle/caches/transforms-2/files-2.1/7eb81b5072a68e6bb62eee31f9fc7c4e/mapbox-android-telemetry-4.5.1/AndroidManifest.xml:12:22-65
+23
+24    <application
+24-->/home/afridev/Videos/store-locator-android-master/StoreLocator/app/src/main/AndroidManifest.xml:8:5-23:19
+25        android:allowBackup="false"
+25-->/home/afridev/Videos/store-locator-android-master/StoreLocator/app/src/main/AndroidManifest.xml:9:9-36
+26        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+26-->[com.android.support:support-compat:28.0.0] /home/afridev/.gradle/caches/transforms-2/files-2.1/f1491a81a65d4033a56d6549564e765e/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+27        android:debuggable="true"
+28        android:icon="@mipmap/ic_launcher"
+28-->/home/afridev/Videos/store-locator-android-master/StoreLocator/app/src/main/AndroidManifest.xml:10:9-43
+29        android:label="@string/final_app_name"
+29-->/home/afridev/Videos/store-locator-android-master/StoreLocator/app/src/main/AndroidManifest.xml:11:9-47
+30        android:roundIcon="@mipmap/ic_launcher_round"
+30-->/home/afridev/Videos/store-locator-android-master/StoreLocator/app/src/main/AndroidManifest.xml:12:9-54
+31        android:supportsRtl="true"
+31-->/home/afridev/Videos/store-locator-android-master/StoreLocator/app/src/main/AndroidManifest.xml:13:9-35
+32        android:testOnly="true"
+33        android:theme="@style/AppTheme.Gray" >
+33-->/home/afridev/Videos/store-locator-android-master/StoreLocator/app/src/main/AndroidManifest.xml:14:9-45
+34        <activity android:name="com.mapbox.storelocator.activity.MapActivity" />
+34-->/home/afridev/Videos/store-locator-android-master/StoreLocator/app/src/main/AndroidManifest.xml:15:9-80
+34-->/home/afridev/Videos/store-locator-android-master/StoreLocator/app/src/main/AndroidManifest.xml:15:19-78
+35        <activity android:name="com.mapbox.storelocator.activity.ThemePickerActivity" >
+35-->/home/afridev/Videos/store-locator-android-master/StoreLocator/app/src/main/AndroidManifest.xml:16:9-22:20
+35-->/home/afridev/Videos/store-locator-android-master/StoreLocator/app/src/main/AndroidManifest.xml:16:19-86
+36            <intent-filter>
+36-->/home/afridev/Videos/store-locator-android-master/StoreLocator/app/src/main/AndroidManifest.xml:17:13-21:29
+37                <action android:name="android.intent.action.MAIN" />
+37-->/home/afridev/Videos/store-locator-android-master/StoreLocator/app/src/main/AndroidManifest.xml:18:17-68
+37-->/home/afridev/Videos/store-locator-android-master/StoreLocator/app/src/main/AndroidManifest.xml:18:25-66
+38
+39                <category android:name="android.intent.category.LAUNCHER" />
+39-->/home/afridev/Videos/store-locator-android-master/StoreLocator/app/src/main/AndroidManifest.xml:20:17-76
+39-->/home/afridev/Videos/store-locator-android-master/StoreLocator/app/src/main/AndroidManifest.xml:20:27-74
+40            </intent-filter>
+41        </activity>
+42
+43        <provider
+43-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] /home/afridev/.gradle/caches/transforms-2/files-2.1/7eb81b5072a68e6bb62eee31f9fc7c4e/mapbox-android-telemetry-4.5.1/AndroidManifest.xml:19:9-23:39
+44            android:name="com.mapbox.android.telemetry.provider.MapboxTelemetryInitProvider"
+44-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] /home/afridev/.gradle/caches/transforms-2/files-2.1/7eb81b5072a68e6bb62eee31f9fc7c4e/mapbox-android-telemetry-4.5.1/AndroidManifest.xml:20:13-93
+45            android:authorities="com.mapbox.storefinder.mapboxtelemetryinitprovider"
+45-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] /home/afridev/.gradle/caches/transforms-2/files-2.1/7eb81b5072a68e6bb62eee31f9fc7c4e/mapbox-android-telemetry-4.5.1/AndroidManifest.xml:21:13-79
+46            android:exported="false"
+46-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] /home/afridev/.gradle/caches/transforms-2/files-2.1/7eb81b5072a68e6bb62eee31f9fc7c4e/mapbox-android-telemetry-4.5.1/AndroidManifest.xml:22:13-37
+47            android:initOrder="100" />
+47-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] /home/afridev/.gradle/caches/transforms-2/files-2.1/7eb81b5072a68e6bb62eee31f9fc7c4e/mapbox-android-telemetry-4.5.1/AndroidManifest.xml:23:13-36
+48
+49        <service
+49-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] /home/afridev/.gradle/caches/transforms-2/files-2.1/7eb81b5072a68e6bb62eee31f9fc7c4e/mapbox-android-telemetry-4.5.1/AndroidManifest.xml:25:9-27:72
+50            android:name="com.mapbox.android.telemetry.crash.CrashReporterJobIntentService"
+50-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] /home/afridev/.gradle/caches/transforms-2/files-2.1/7eb81b5072a68e6bb62eee31f9fc7c4e/mapbox-android-telemetry-4.5.1/AndroidManifest.xml:26:13-92
+51            android:permission="android.permission.BIND_JOB_SERVICE" />
+51-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] /home/afridev/.gradle/caches/transforms-2/files-2.1/7eb81b5072a68e6bb62eee31f9fc7c4e/mapbox-android-telemetry-4.5.1/AndroidManifest.xml:27:13-69
+52    </application>
+53
+54</manifest>
