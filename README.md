@@ -10,6 +10,10 @@ This app uses the MVC (Model View Controller) architecture. Whereby all our data
 
 #### Preview of Store Locator
 Below are the screenshots of the application:
+<img src="https://i.imgur.com/iUJ12Jr.png" alt="drawing" style="width:50px;"/>
+![Screenshot1](https://i.imgur.com/iUJ12Jr.png =50x90)
+![Screenshot1](https://i.imgur.com/iUJ12Jr.png =50x90)
+![Screenshot1](https://i.imgur.com/iUJ12Jr.png =50x90)
 
 #### Acknowledgements
 - Hillary
