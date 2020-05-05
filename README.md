@@ -10,26 +10,23 @@ This app uses the MVC (Model View Controller) architecture. Whereby all our data
 
 #### Setting Up the Project.
 To set up this project locally:
-    ##### Method One.
-    - Open Android studio.
-    - Navigate to the VCS tab and select checkout from VCS, select Git.
-    - You will be prompted to enter the url to the repo, enter this `git clone https://github.com/KelynPNjeri/Store-Locator.git`
+    
+**Method One.**
+- Open Android studio.
+- Navigate to the VCS tab and select checkout from VCS, select Git.
+- You will be prompted to enter the url to the repo, enter this `git clone https://github.com/KelynPNjeri/Store-Locator.git`
 
-    ##### Method Two.
-    - Open your terminal.
-    - Clone the repositoru using `git clone https://github.com/KelynPNjeri/Store-Locator.git`
-    - Open this project on Android studio.
+**Method Two.**
+- Open your terminal.
+- Clone the repositoru using `git clone https://github.com/KelynPNjeri/Store-Locator.git`
+- Open this project on Android studio.
 
-*NB: * Once set up, to view the app, run the project on either an emulator like Genymotion or the Android Studio AVD or on a physical device from within android studio.
+**NB:** Once set up, to view the app, run the project on either an emulator like Genymotion or the Android Studio AVD or on a physical device from within android studio.
 
 
 
 #### Preview of Store Locator
 Below are the screenshots of the application:
-<img src="https://i.imgur.com/iUJ12Jr.png" alt="drawing" style="width:50px;"/>
-![Screenshot1](https://i.imgur.com/iUJ12Jr.png =50x90)
-![Screenshot1](https://i.imgur.com/iUJ12Jr.png =50x90)
-![Screenshot1](https://i.imgur.com/iUJ12Jr.png =50x90)
 
 #### Acknowledgements
 - Hillary
