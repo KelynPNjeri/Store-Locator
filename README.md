@@ -14,7 +14,7 @@ To set up this project locally:
 **Method One.**
 - Open Android studio.
 - Navigate to the VCS tab and select checkout from VCS, select Git.
-- You will be prompted to enter the url to the repo, enter this `git clone https://github.com/KelynPNjeri/Store-Locator.git`
+- You will be prompted to enter the url to the repo, enter this `https://github.com/KelynPNjeri/Store-Locator.git`
 
 **Method Two.**
 - Open your terminal.
